@@ -8,8 +8,11 @@ public class GitBranchApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitBranchApplication.class, args);
-		
+
 		int a=30;
+
+		String name="Santosh";
+
 	}
 
 }
